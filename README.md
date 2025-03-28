@@ -1,4 +1,5 @@
-# Lukas Lohr – Robotics & Software Engineering Portfolio
+# Lukas Lohr – Robotics & Mechatronics M. Sc. (TUM) 
+# Engineering Portfolio
 
 Hi, I'm Lukas 👋 An engineer with a passion for motion analysis, AI, and human-centered design.
 
